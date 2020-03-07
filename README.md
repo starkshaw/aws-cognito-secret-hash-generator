@@ -24,7 +24,9 @@ The following libraries are included in AWS Lambda Python runtimes:
 All parameters are compulsory to calculate a secret hash.
 
 `sub`: The subject claim of a user.
+
 `clientId`: Cognito user pool app client ID.
+
 `clientSecret`: Cognito user pool app client secret.
 
 ## Example Lambda Response
